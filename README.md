@@ -16,8 +16,8 @@ Overview paper: [DOI](https://doi.org/10.1007/s10822-010-9350-8) • [Full-text]
 ## Files
 Input files provided to participants:
 
-* [solvation energy](https://github.com/samplchallenges/SAMPL2/solvation_energy)
-* [tautomer ratios](https://github.com/samplchallenges/SAMPL2/tautomer_ratios)
+* [solvation energy](solvation_energy)
+* [tautomer ratios](tautomer_ratios)
 
 ## LICENSE
 
