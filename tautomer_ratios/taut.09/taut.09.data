@@ -1,0 +1,116 @@
+###################################################################################################
+##                                                                                               
+##  Tautomer Prediction Results File                                                             
+##  
+##  All predictions should reflect conditions of 298K and aqueous solution. 
+##
+##  Please report the energy difference (kcal/mol) for each tautomer pair described (with the
+##  exception of case 6, molecule 17, see below).  The notation of 1A_1B denotes the 
+##  transformation from tautomer A to tautomer B.  Following the standard of products - reactants, 
+##  this would correspond to E(1B) - E(1A).  For example, if tautomer 1A has an energy of 
+##  7.4 kcal/mol and tautomer 1B has an energy of 4.6 kcal/mol, than the energy for 1A_1B would 
+##  be 4.6 - 7.4, or -2.8 kcal/mol.
+##
+##  If possible, please report a standard error (kcal/mol) as well as a confidence estimation
+##  for each prediction.
+##  
+##  Confidence in the method's ability to predict each compound should be assigned an 
+##  integer value from 1 to 5.                
+##  	5: High confidence  	1:  Low confidence                               
+##                                                                                               
+###################################################################################################
+##
+##  Format
+##  name:  TautE  Err  Confidence
+##
+##  Example
+##  1A_1B:  -2.8  0.4  4
+##  
+###################################################################################################
+##  Group 1 (Obscure)  ##
+##  Case (1)  ##
+1A_1B:
+2A_2B:
+3A_3B:
+4A_4B:
+##  Case (2)  ##
+5A_5B:
+5B_5C:
+##  Case (3)  ##
+6A_6B:
+6A_6Z:
+##
+##  Group 2 (Explanatory)  ##
+##  Case (4)  ##
+7A_7B:
+8A_8B:
+##  Case (5)  ##
+10B_10C:
+10D_10C:
+11D_11C:
+12D_12C:
+13D_13C:
+14D_14C:
+15A_15B:
+15A_15C:
+15B_15C:
+16A_16C:
+##  Case (6)  ##
+##  Please input relative energies for any contributing tautomers, and an energy of 0.0 for 
+##  the dominant tautomer.  Energies of non-contributing tautomers (<1%) may be left blank.
+17A:
+17B:
+17C:
+17D:
+17E:
+17F:
+17G:
+17H:
+17I:
+17J:
+17K:
+17L:
+17M:
+17N:
+17O:
+##
+##  Group 3 (Investigatory)  ##
+##  Case (7)  ##
+19A.h_19B.h:
+20A.ch2_20B.ch2:
+20A.o_20B.o:
+20A.s_20B.s:
+20A.nch3_20B.nch3:
+21A_21B:
+##  Case (8)  ##
+22A_22B:
+23A_23B:
+24A_24B:
+25A_25B:
+26A_26B:
+##  Case (9)  ##
+27A.o_27B.o:
+27A.o_27C.o:
+27A.o_27D.o:
+27A.s_27B.s:
+27A.s_27C.s:
+27A.s_27D.s:
+27A.nh_27B.nh:
+27A.nh_27C.nh:
+27A.nh_27D.nh:
+##  Case (10)  ##
+28A_28B:
+29A_29B:
+30A_30B:
+31A_31B:
+##  Case (11)  ##
+32A_32B:
+33A_33B:
+34A_34B:
+##  Case(12)  ##
+35A.o_35B.o:
+35C.o_35A.o:
+35A.s_35B.s:
+35C.s_35A.s:
+35A.nch3_35B.nch3:
+35C.nch3_35A.nch3:

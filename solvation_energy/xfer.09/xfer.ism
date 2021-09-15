@@ -1,0 +1,23 @@
+c1cc(=O)[nH]c(=O)[nH]1 uracil
+c1c(c(=O)[nH]c(=O)[nH]1)Br 5-bromouracil
+c1c(c(=O)[nH]c(=O)[nH]1)Cl 5-chlorouracil
+c1c(c(=O)[nH]c(=O)[nH]1)F 5-flurouracil
+c1c(c(=O)[nH]c(=O)[nH]1)I 5-iodouracil
+c1c(c(=O)[nH]c(=O)[nH]1)C(F)(F)F 5-trifluoromethyluracil
+c1c(=O)[nH]c(=O)[nH]c1Cl 6-chlorouracil
+O=c1[nH]c(=O)[nH]c(=O)[nH]1 cyanuric acid
+Cn1cnc2c1c(=O)n(c(=O)n2C)C caffeine
+COC(=O)c(cc1)ccc1O methyl paraben
+CCOC(=O)c(cc1)ccc1O ethyl paraben
+CCCOC(=O)c(cc1)ccc1O propyl paraben
+CCCCOC(=O)c(cc1)ccc1O butyl paraben
+CC(=O)Oc1ccccc1C(=O)O acetylsalicylic acid
+c1cc(O)c(C(=O)O)cc1c2ccc(F)cc2F diflunisal
+c1ccccc1c2ccc(C(C)C(=O)O)cc2F flurbiprofen (racemic)
+CC(C)Cc(cc1)ccc1C(C)C(=O)O ibuprofen (racemic)
+c1ccccc1C(=O)c(c2)cccc2C(C)C(=O)O ketoprofen (racemic)
+C[C@@H](c1ccc2cc(ccc2c1)OC)C(=O)O naproxen
+O=C1NC(=O)c2ccccc12 phthalimide
+C1CCCS1(=O)=O sulfolane
+C([C@@H]1[C@H]([C@@H]([C@H]([C@@H](O1)O)O)O)O)O d-glucose
+O1[C@H](O)[C@H](O)[C@@H](O)[C@H](O)C1 d-xylose

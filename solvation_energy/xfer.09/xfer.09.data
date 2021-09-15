@@ -1,0 +1,82 @@
+###################################################################################################
+##                                                                                               
+##  Transfer Energy Prediction Results File                                                      
+##                                                                                               
+##  Please report transfer energies (kcal/mol) as well as a standard error (kcal/mol)            
+##  and confidence estimation.  Be sure to leave whitespace between values.                       
+##                                                                                               
+##  All predictions should reflect conditions of 298K and transfer from gas at 1M to             
+##  aqueous at 1M.                                                                               
+##                                                                                               
+##  Confidence the method's ability to predict each compound should be assigned an 
+##  integer value from 1 to 5.                
+##  	5: High confidence  	1:  Low confidence                               
+##                                                                                               
+###################################################################################################
+##
+##  Format
+##  name:  XferE  Err  Confidence
+##
+##  Example
+##  uracil:  7.45  0.34  4
+##  5-bromouracil:  -4.5  0.21  2
+##
+###################################################################################################
+##  Obscure Complete  ##
+uracil:
+5-bromouracil:
+5-chlorouracil:
+5-flurouracil:
+5-iodouracil:
+5-trifluoromethyluracil:
+6-chlorouracil:
+cyanuric acid:
+caffeine:
+methyl paraben:
+ethyl paraben:
+propyl paraben:
+butyl paraben:
+acetylsalicylic acid:
+diflunisal:
+flurbiprofen (racemic):
+ibuprofen (racemic):
+ketoprofen (racemic):
+naproxen:
+phthalimide:
+sulfolane:
+d-glucose:
+d-xylose:
+##
+##  Obscure Select  ##
+uracil: 
+5-trifluoromethyluracil: 
+cyanuric acid: 
+caffeine: 		
+ibuprofen (racemic): 
+phthalimide: 
+d-glucose: 
+d-xylose: 
+sulfolane: 
+ethyl paraben:
+##
+##  Explanatory  ##
+hexamethyl phosphoramide: 
+dimethyl methylphosphonate: 
+methyl dimethylphosphinate: 
+methyl phenyl sulfoxide: 
+trifluoromethyl phenyl sulfoxide: 
+methyl phenyl sulfone: 
+trifluoromethyl phenyl sulfone: 
+oxazole: 
+thiazole: 
+isothiazole:
+##
+##  Investigatory  ##
+hexachlorobenzene: 
+hexachloroethane: 
+octafluorocyclobutane: 
+trimethyl orthotrifluoroacetate: 
+trimethyl phosphate: 
+4-nitroaniline: 
+glycerol: 
+pentachloronitrobenzene:
