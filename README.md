@@ -1,5 +1,6 @@
 # SAMPL2
 Archived information/files for the SAMPL2 challenge
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5508280.svg)](https://doi.org/10.5281/zenodo.5508280)
 
 ## Challenge overview
 The SAMPL2 evaluation was carried out in the spring of 2009, organized by OpenEye, and discussed at a workshop help at McGill University in Montreal in June of 2009.
